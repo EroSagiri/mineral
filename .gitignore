@@ -1,5 +1,6 @@
 .obsidian
 mineral
+mineral.lock
 
 # ==============================
 # 忽略所有私人内容（文件夹和文件）
@@ -18,7 +19,11 @@ mineral
 **/*绝密*
 **/*密*
 
-# Bedrock CDN assets
+# CDN assets
 bedrock
+attachments
 
 TaskNotes
+
+.history
+.trash
