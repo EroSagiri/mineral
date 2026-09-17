@@ -11,6 +11,23 @@ tags:
 
 我几乎每天都会写日记，但日记不一定严格当天完成：有时会留到明天、后天补写，也有些日子可能不写。这个库以 Obsidian 作为主要写作入口，Web 页面用于浏览、搜索和公开展示。
 
+## 实时心率
+我佩戴佳明255手表连接手机，通过桥 [PulseBridge](https://github.com/EroSagiri/PulseBridge) 手机把实时的心率在这里呈现。这个是他的web部署页面 [Pulse](https://pulse.sighjune.com/)
+
+**在此地留下一颗跳动的心**
+
+
+<div style="display: flex; justify-content: center;">
+  <iframe
+    src="https://pulse.sighjune.com/embed.html?device=1552271651&layout=minimal&theme=dark&transparent=0&animate=0&status=0&name="
+    title="实时心率"
+    loading="lazy"
+    width="140"
+    height="70"
+    style="max-width: 100%; border: 0; border-radius: 12px; overflow: hidden;"
+  ></iframe>
+</div>
+
 ## 快速入口
 
 - [[daily/]]：每日记录，按日期保存。
